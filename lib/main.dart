@@ -2,10 +2,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_pr/Screen/Splash_screen.dart';
-import 'package:flutter_pr/Student_App/Home_screen.dart';
 
-
-void main() {
+void main() async {
   runApp(MyApp());
 }
 
